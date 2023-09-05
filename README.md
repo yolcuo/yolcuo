@@ -26,7 +26,7 @@
 </td>
 </picture>
 </table>
-<img alt="yolcuo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?usernameyolcuo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="yolcuo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yolcuo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 + [![](https://visitcount.itsvg.in/api?id=yolcuo&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
