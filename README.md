@@ -25,7 +25,7 @@
 <td width="50%" align="center">
 <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yolcuo&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>-->
 </td>
-</picture>
+<!--</picture>-->
 </table>
 <img alt="yolcuo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yolcuo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 ->
