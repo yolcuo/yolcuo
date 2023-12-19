@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript">  
 </p>
 
- 
+ <!--
 <table border="0" align="center">
 <td width="50%" align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=yolcuo&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""> -->
@@ -30,7 +30,7 @@
 
 + [![](https://visitcount.itsvg.in/api?id=yolcuo&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
-
+-->
 
 
 <!--
